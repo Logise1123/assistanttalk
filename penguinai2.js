@@ -76,7 +76,7 @@
                         arguments: {
                             URL: {
                                 type: Scratch.ArgumentType.STRING,
-                                defaultValue: 'https://proxy.mubilop.tech/v1'
+                                defaultValue: 'https://penguinai.derpygamer2142.com/v1'
                             }
                         },
                     },
